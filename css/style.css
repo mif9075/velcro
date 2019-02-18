@@ -98,6 +98,9 @@ Feel free to play with this pre-added styling!
   color: #fff;
   background: #000;
   height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly
 }
 
 @media (min-width: 1199px) {
