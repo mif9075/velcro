@@ -51,9 +51,13 @@ flex-direction: column; */
 /* Work - 8 Images - 2 Rows */
 .col-md-3 {
   
-  
-  
 }
+
+/* Resume boxes */
+.card-deck {
+display: flex;
+}
+
 
 /*
 
