@@ -9,7 +9,7 @@ border: 1px solid;
 
 /* Header, Footer, Work */
 .row {
-  /* display: flex; */
+  display: flex;
 }
 
 /* Header - Social Media - Row */
