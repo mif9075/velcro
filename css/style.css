@@ -1,34 +1,50 @@
+/* Container of all content */
+.container {
+/* display: flex;
+flex-direction: column; */
+}
 
+/* Header, Footer, Work */
 .row {
+  /* display: flex; */
+}
+
+/* Header - Social Media - Row */
+.col-lg-8 {
+/* display: flex;
+flex-direction: column; */
+}
+.col-md-7 {
+  /* display: flex;
+  flex-direction: column; */
+}
+
+/* Header Image - Row */
+.col-lg-4 {
   
 }
-
-.col-lg-8 {
-
-}
-
-.col-lg-4 {
-
-}
-
-.col-md-7 {
-
-}
-
-.col-md-6 {
-
-}
-
 .col-md-5 {
 
 }
 
+
+
+/* Footer - Row*/
+.col-md-6 {
+
+}
+
+/* Work - 8 Images - 2 Rows */
 .col-md-3 {
 
 }
 
+/* Home-Resume-Work-Contact-Images - Row */
 .col-sm-3 {
-
+/* display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center; */
 }
 
 
