@@ -10,6 +10,13 @@ border: 1px solid;
   display: flex;
 }
 
+/* Name/Social Media */
+.row2 {
+  display: flex;
+  height: 130px;
+}
+
+
 /* Header Image - Row */
 .col-lg-4 {
   width: 400px;
@@ -69,7 +76,7 @@ Feel free to play with this pre-added styling!
 /* Home/Resume/Work/Contact - Row */
 #main-header .port-item {
   width: 30%;
-  height: 100px;
+  height: 130px;
 }
 
 #main-header .port-item:hover {
@@ -81,6 +88,7 @@ Feel free to play with this pre-added styling!
 .bg-black {
   color: #fff;
   background: #000;
+  height: 50px;
 }
 
 @media (min-width: 1199px) {
