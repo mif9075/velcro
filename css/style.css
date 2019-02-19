@@ -50,7 +50,11 @@ border: 1px solid;
 
 /* Footer - Row*/
 .col-md-6 {
-
+height: 80px;
+display: flex;
+align-items: center;
+background-color: grey;
+width: 1000px;
 }
 
 /* Work - 8 Images - 2 Rows */
