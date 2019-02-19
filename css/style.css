@@ -8,6 +8,8 @@ border: 1px solid;
 /* Header, Footer, Work */
 .row {
   display: flex;
+  
+  
 }
 
 /* Name/Social Media */
@@ -72,6 +74,13 @@ margin: 10px;
 
 .card {
   border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.card img {
+  width: 235px;
 }
 
 
